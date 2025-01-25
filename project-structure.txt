@@ -1,0 +1,23 @@
+healthcare-landing/
+├── app/
+│   ├── case-studies/
+│   │   └── page.tsx
+│   ├── case-study/
+│   │   └── [slug]/
+│   │       └── page.tsx
+│   ├── resume/
+│   │   └── page.tsx
+│   ├── components/
+│   │   ├── hamburger-menu.tsx
+│   │   └── video-overlay.tsx
+│   ├── globals.css
+│   ├── layout.tsx
+│   └── page.tsx
+├── public/
+├── .gitignore
+├── next.config.js
+├── package.json
+├── postcss.config.js
+├── tailwind.config.js
+└── tsconfig.json
+
